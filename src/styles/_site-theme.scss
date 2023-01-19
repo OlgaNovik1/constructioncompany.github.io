@@ -1,0 +1,41 @@
+$accentColor: #F7654A;   /*основной цвет*/
+$darkColor: #404149;
+$grayColor: #999;
+$whiteColor:#fff;
+$backgroundLightColor: #e5e5e5;
+$backgroundDarktColor: #1d1919;
+$blackColor: #000;
+
+
+
+
+
+:root {
+
+    @media screen and (prefers-color-scheme: light), screen and (prefers-color-scheme: no-preference) {
+        --site-accentColor: #{$accentColor};   /*основной цвет*/
+        --site-primaryTextColor: #{$whiteColor};  /*основной цвет текста*/
+        --site-backgroundColor: #{$backgroundDarktColor};  /*цвет фона*/
+        --site-twoTextColor: #{$blackColor};  /*второй цвет текста*/
+        --site-threeTextColor: #{$grayColor};  /*третий цвет текста*/
+        --site-fourTextColor: #{$darkColor};  /*четвертый цвет текста*/
+        --site-twoBackgroundColor: #{$backgroundLightColor};  /*цвет фона 2*/
+        --siteBody-BgColor: #{$whiteColor};
+    }
+
+
+
+
+    @media screen and (prefers-color-scheme: dark) {
+        --site-accentColor: #{$accentColor};    /*основной цвет*/
+        --site-primaryTextColor: #{$whiteColor};  /*поменять  основной цвет текста*/
+        --site-backgroundColor: #{$blackColor};  /*цвет фона*/
+        --site-twoTextColor: #{$whiteColor};  /*второй цвет текста*/
+        --site-threeTextColor: #{$whiteColor};  /*третий цвет текста*/
+        --site-fourTextColor: #{$grayColor};  /*четвертый цвет текста*/
+        --site-twoBackgroundColor: #{$grayColor};  /*цвет фона 2*/
+        --siteBody-BgColor: #{$darkColor};
+    }
+
+}
+
