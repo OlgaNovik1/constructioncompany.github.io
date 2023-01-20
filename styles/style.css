@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* cyrillic-ext */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
   font-style: normal;
   font-weight: 400;
   font-stretch: 100%;
@@ -9,10 +9,9 @@
   src: url(https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4taVIGxA.woff2) format("woff2");
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
-
 /* cyrillic */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
   font-style: normal;
   font-weight: 400;
   font-stretch: 100%;
@@ -20,10 +19,9 @@
   src: url(https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4kaVIGxA.woff2) format("woff2");
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
-
 /* greek-ext */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
   font-style: normal;
   font-weight: 400;
   font-stretch: 100%;
@@ -31,10 +29,9 @@
   src: url(https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4saVIGxA.woff2) format("woff2");
   unicode-range: U+1F00-1FFF;
 }
-
 /* greek */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
   font-style: normal;
   font-weight: 400;
   font-stretch: 100%;
@@ -42,10 +39,9 @@
   src: url(https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4jaVIGxA.woff2) format("woff2");
   unicode-range: U+0370-03FF;
 }
-
 /* hebrew */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
   font-style: normal;
   font-weight: 400;
   font-stretch: 100%;
@@ -53,10 +49,9 @@
   src: url(https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4iaVIGxA.woff2) format("woff2");
   unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
 }
-
 /* vietnamese */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
   font-style: normal;
   font-weight: 400;
   font-stretch: 100%;
@@ -64,10 +59,9 @@
   src: url(https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4vaVIGxA.woff2) format("woff2");
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
 }
-
 /* latin-ext */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
   font-style: normal;
   font-weight: 400;
   font-stretch: 100%;
@@ -75,10 +69,9 @@
   src: url(https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVIGxA.woff2) format("woff2");
   unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
-
 /* latin */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
   font-style: normal;
   font-weight: 400;
   font-stretch: 100%;
@@ -86,175 +79,156 @@
   src: url(https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVI.woff2) format("woff2");
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
-
 /* cyrillic-ext */
 @font-face {
-  font-family: 'Oswald';
+  font-family: "Oswald";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/oswald/v48/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlbHYjedg.woff2) format("woff2");
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
-
 /* cyrillic */
 @font-face {
-  font-family: 'Oswald';
+  font-family: "Oswald";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/oswald/v48/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlSHYjedg.woff2) format("woff2");
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
-
 /* vietnamese */
 @font-face {
-  font-family: 'Oswald';
+  font-family: "Oswald";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/oswald/v48/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlZHYjedg.woff2) format("woff2");
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
 }
-
 /* latin-ext */
 @font-face {
-  font-family: 'Oswald';
+  font-family: "Oswald";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/oswald/v48/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlYHYjedg.woff2) format("woff2");
   unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
-
 /* latin */
 @font-face {
-  font-family: 'Oswald';
+  font-family: "Oswald";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/oswald/v48/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlWHYg.woff2) format("woff2");
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
-
 /* cyrillic-ext */
 @font-face {
-  font-family: 'Oswald';
+  font-family: "Oswald";
   font-style: normal;
   font-weight: 500;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/oswald/v48/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlbHYjedg.woff2) format("woff2");
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
-
 /* cyrillic */
 @font-face {
-  font-family: 'Oswald';
+  font-family: "Oswald";
   font-style: normal;
   font-weight: 500;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/oswald/v48/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlSHYjedg.woff2) format("woff2");
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
-
 /* vietnamese */
 @font-face {
-  font-family: 'Oswald';
+  font-family: "Oswald";
   font-style: normal;
   font-weight: 500;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/oswald/v48/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlZHYjedg.woff2) format("woff2");
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
 }
-
 /* latin-ext */
 @font-face {
-  font-family: 'Oswald';
+  font-family: "Oswald";
   font-style: normal;
   font-weight: 500;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/oswald/v48/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlYHYjedg.woff2) format("woff2");
   unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
-
 /* latin */
 @font-face {
-  font-family: 'Oswald';
+  font-family: "Oswald";
   font-style: normal;
   font-weight: 500;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/oswald/v48/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlWHYg.woff2) format("woff2");
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
-
 /* cyrillic-ext */
 @font-face {
-  font-family: 'Oswald';
+  font-family: "Oswald";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/oswald/v48/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlbHYjedg.woff2) format("woff2");
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
-
 /* cyrillic */
 @font-face {
-  font-family: 'Oswald';
+  font-family: "Oswald";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/oswald/v48/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlSHYjedg.woff2) format("woff2");
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
-
 /* vietnamese */
 @font-face {
-  font-family: 'Oswald';
+  font-family: "Oswald";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/oswald/v48/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlZHYjedg.woff2) format("woff2");
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
 }
-
 /* latin-ext */
 @font-face {
-  font-family: 'Oswald';
+  font-family: "Oswald";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/oswald/v48/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlYHYjedg.woff2) format("woff2");
   unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
-
 /* latin */
 @font-face {
-  font-family: 'Oswald';
+  font-family: "Oswald";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/oswald/v48/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlWHYg.woff2) format("woff2");
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
-
 .footer {
   padding: 30px 0;
   background-color: var(--siteMain-fourTextColor);
   color: var(--siteMain-fiveTextColor);
 }
-
 .footer_flex {
   display: flex;
   justify-content: space-between;
 }
-
 @media screen and (max-width: 765px) {
   .footer_flex {
     flex-direction: column;
     align-items: center;
   }
 }
-
 @media screen and (max-width: 1280px) {
   .footer {
     padding: 30px 15px;
@@ -272,12 +246,9 @@
 .header {
   height: 600px;
   background-image: url(../img/header-foto.jpg);
-  background-repeat: no-repeat;
-  /*чтобы не повторялось изобр*/
-  background-size: cover;
-  /*чтобы вписалось изобр*/
+  background-repeat: no-repeat; /*чтобы не повторялось изобр*/
+  background-size: cover; /*чтобы вписалось изобр*/
 }
-
 .header .left {
   opacity: 0;
   position: absolute;
@@ -286,13 +257,11 @@
   right: 0;
   width: 200px;
 }
-
 @media screen and (min-width: 1100px) {
   .header .left {
     display: none;
   }
 }
-
 .header .left .navigation-left {
   background-color: var(--siteHeader-TexColor);
   list-style: none;
@@ -305,82 +274,67 @@
   flex-direction: column;
   justify-content: space-around;
 }
-
 .header .left .navigation-left a {
   text-decoration: none;
   color: var(--siteHeader-TwoTexColor);
 }
-
 .header .container {
   max-width: 1110px;
-  margin: 0 auto;
-  /* контейнер по центру выравниваем, задав ширину*/
+  margin: 0 auto; /* контейнер по центру выравниваем, задав ширину*/
 }
-
 .header .header_title {
-  padding: 20px 15px 0 15px;
-  /*поменять на новые свойства!*/
+  padding: 20px 15px 0 15px; /*поменять на новые свойства!*/
   margin-bottom: 170px;
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
 }
-
 .header .header_title nav {
   height: 30px;
   line-height: 30px;
   max-width: 900px;
 }
-
 @media screen and (max-width: 1100px) {
   .header .header_title nav {
     display: none;
   }
 }
-
 .header .header_title nav .navigation {
   list-style: none;
   display: flex;
   justify-content: space-between;
 }
-
 .header .header_title nav .navigation li {
   font-size: 22px;
   height: 30px;
   margin: 0 -2px;
   border-right: 2px solid black;
 }
-
 .header .header_title nav .navigation li:first-child {
   border-left: 2px solid black;
 }
-
 .header .header_title nav .navigation li a {
   height: 100%;
   padding: 0 25px;
   color: var(--siteHeader-TwoTexColor);
   text-decoration: none;
 }
-
 @media screen and (prefers-reduced-motion: no-preference) and (hover: hover) {
   .header .header_title nav .navigation li a:hover {
     color: white;
-    opacity: .7;
+    opacity: 0.7;
     cursor: pointer;
   }
 }
-
 @media screen and (hover: none) {
   .header .header_title nav .navigation li a:hover {
     font-size: 35px;
   }
 }
-
 .header .header_title .burger {
   height: 50px;
   width: 50px;
-  padding: 0;
-  /*сбросим паддинг*/
+  padding: 0; /*сбросим паддинг*/
   background-color: var(--siteHeader-Button_bgColor);
   border: none;
   display: flex;
@@ -388,20 +342,17 @@
   justify-content: center;
   align-items: center;
 }
-
 @media screen and (min-width: 1100px) {
   .header .header_title .burger {
     display: none;
   }
 }
-
 @media screen and (max-width: 600px) {
   .header .header_title .burger {
     height: 70px;
     width: 70px;
   }
 }
-
 .header .header_title .burger .burger_line {
   display: block;
   height: 3px;
@@ -409,11 +360,9 @@
   background-color: var(--siteHeader-Button_bgLineColor);
   margin-bottom: 4px;
 }
-
 .header .header_title .burger .burger_line:last-child {
   margin-bottom: 0;
 }
-
 .header .h1 {
   font-weight: 400px;
   font-size: 55px;
@@ -425,19 +374,16 @@
   margin: 0 auto 35px;
   background-color: var(--site-backgroundColor);
 }
-
 @media screen and (max-width: 620px) {
   .header .h1 {
     font-size: 45px;
   }
 }
-
 @media screen and (max-width: 520px) {
   .header .h1 {
     margin-bottom: -8px;
   }
 }
-
 .header .h4 {
   font-weight: 300px;
   max-width: 800px;
@@ -458,20 +404,17 @@
   width: 50px;
   height: 50px;
 }
-
 @media screen and (prefers-reduced-motion: no-preference) and (hover: hover) {
   .checkbox:hover {
     cursor: pointer;
   }
 }
-
 @media screen and (max-width: 600px) {
   .checkbox {
     height: 70px;
     width: 70px;
   }
 }
-
 @media screen and (min-width: 1100px) {
   .checkbox {
     display: none;
@@ -506,8 +449,7 @@ body {
   margin: 0;
   min-height: 100%;
   min-width: 320px;
-  font-family: 'Oswald', sans-serif;
-  /*основной шрифт для сайта*/
+  font-family: "Oswald", sans-serif; /*основной шрифт для сайта*/
   font-weight: 400;
 }
 
@@ -523,16 +465,14 @@ body {
 .about {
   padding-top: 300px;
   min-height: 1080px;
-  position: relative;
-  /*родителю*/
+  position: relative; /*родителю*/
 }
 
 .info {
   position: absolute;
   top: -100px;
   left: 50%;
-  transform: translateX(-50%);
-  /*маргином не выровнять*/
+  transform: translateX(-50%); /*маргином не выровнять*/
   max-width: 1110px;
   width: 100%;
   min-height: 260px;
@@ -564,15 +504,11 @@ body {
   margin: 0 auto;
   overflow: hidden;
 }
-
 .wrapper img {
-  display: block;
-  /*тк изобр строчный элемент*/
-  max-width: 100%;
-  /*будет сжиматься под экран*/
+  display: block; /*тк изобр строчный элемент*/
+  max-width: 100%; /*будет сжиматься под экран*/
   overflow: hidden;
 }
-
 @media screen and (prefers-reduced-motion: no-preference) and (hover: hover) {
   .wrapper img {
     transition: all 1s ease;
@@ -611,20 +547,17 @@ body {
     justify-content: space-around;
   }
 }
-
 @media screen and (max-width: 765px) {
   .about {
     padding-top: 200px;
   }
   .info {
-    position: relative;
-    /*сбросим со значения абсолют*/
+    position: relative; /*сбросим со значения абсолют*/
   }
   .about_grid {
     grid-template-columns: repeat(1, 1fr);
   }
 }
-
 .project-h2 {
   text-align: center;
   margin-bottom: 60px;
@@ -640,8 +573,7 @@ body {
 
 .about_grid-item_2 {
   text-align: start;
-  max-width: 350px;
-  /*ограничим ширину картинке*/
+  max-width: 350px; /*ограничим ширину картинке*/
 }
 
 .line {
@@ -669,13 +601,11 @@ body {
     gap: 40px;
   }
 }
-
 @media screen and (max-width: 765px) {
   .about_grid_2 {
     grid-template-columns: repeat(1, 1fr);
   }
 }
-
 .request {
   background-color: var(--siteMain-TextColor);
   padding-top: 30px;
@@ -713,8 +643,7 @@ body {
   display: flex;
   align-items: center;
   text-transform: uppercase;
-  font-family: 'Oswald', sans-serif;
-  /*не наследует кнопка. делаем сами*/
+  font-family: "Oswald", sans-serif; /*не наследует кнопка. делаем сами*/
   font-weight: 500;
   font-size: 14px;
   padding: 14px 30px;
@@ -731,7 +660,6 @@ body {
     padding-right: 15px;
   }
 }
-
 @media screen and (max-width: 765px) {
   .request_flex {
     flex-wrap: wrap;
@@ -744,7 +672,6 @@ body {
     margin-top: 20px;
   }
 }
-
 .service {
   padding: 150px 0;
 }
@@ -794,11 +721,9 @@ body {
     grid-template-rows: repeat(3, 1fr);
   }
   .service_grid-item {
-    width: 100%;
-    /*чтобы элем растягивался на всю ширину*/
+    width: 100%; /*чтобы элем растягивался на всю ширину*/
   }
 }
-
 @media screen and (max-width: 765px) {
   .service_grid {
     grid-template-columns: repeat(1, 1fr);
@@ -807,7 +732,6 @@ body {
     max-width: 350px;
   }
 }
-
 .question {
   padding: 150px 15px 130px 15px;
 }
@@ -869,7 +793,6 @@ body {
     justify-content: center;
   }
 }
-
 .comment {
   margin-bottom: 20px;
   margin-top: 150px;
@@ -909,13 +832,11 @@ body {
     grid-template-columns: repeat(2, 1fr);
   }
 }
-
 @media screen and (max-width: 765px) {
   .comment_grid {
     grid-template-columns: repeat(1, 1fr);
   }
 }
-
 .contacts {
   padding: 100px 0 150px;
 }
@@ -962,50 +883,33 @@ body {
     max-width: 100%;
   }
 }
-
 @media screen and (max-width: 765px) {
   .contacts_grid {
     grid-template-columns: repeat(1, 1fr);
   }
 }
-
 /*основной цвет*/
 @media screen and (prefers-color-scheme: light), screen and (prefers-color-scheme: no-preference) {
   :root {
-    --site-accentColor: #F7654A;
-    /*основной цвет*/
-    --site-primaryTextColor: #fff;
-    /*основной цвет текста*/
-    --site-backgroundColor: #1d1919;
-    /*цвет фона*/
-    --site-twoTextColor: #000;
-    /*второй цвет текста*/
-    --site-threeTextColor: #999;
-    /*третий цвет текста*/
-    --site-fourTextColor: #404149;
-    /*четвертый цвет текста*/
-    --site-twoBackgroundColor: #e5e5e5;
-    /*цвет фона 2*/
+    --site-accentColor: #F7654A; /*основной цвет*/
+    --site-primaryTextColor: #fff; /*основной цвет текста*/
+    --site-backgroundColor: #1d1919; /*цвет фона*/
+    --site-twoTextColor: #000; /*второй цвет текста*/
+    --site-threeTextColor: #999; /*третий цвет текста*/
+    --site-fourTextColor: #404149; /*четвертый цвет текста*/
+    --site-twoBackgroundColor: #e5e5e5; /*цвет фона 2*/
     --siteBody-BgColor: #fff;
   }
 }
-
 @media screen and (prefers-color-scheme: dark) {
   :root {
-    --site-accentColor: #F7654A;
-    /*основной цвет*/
-    --site-primaryTextColor: #fff;
-    /*поменять  основной цвет текста*/
-    --site-backgroundColor: #000;
-    /*цвет фона*/
-    --site-twoTextColor: #fff;
-    /*второй цвет текста*/
-    --site-threeTextColor: #fff;
-    /*третий цвет текста*/
-    --site-fourTextColor: #999;
-    /*четвертый цвет текста*/
-    --site-twoBackgroundColor: #999;
-    /*цвет фона 2*/
+    --site-accentColor: #F7654A; /*основной цвет*/
+    --site-primaryTextColor: #fff; /*поменять  основной цвет текста*/
+    --site-backgroundColor: #000; /*цвет фона*/
+    --site-twoTextColor: #fff; /*второй цвет текста*/
+    --site-threeTextColor: #fff; /*третий цвет текста*/
+    --site-fourTextColor: #999; /*четвертый цвет текста*/
+    --site-twoBackgroundColor: #999; /*цвет фона 2*/
     --siteBody-BgColor: #404149;
   }
 }
@@ -1013,36 +917,35 @@ body {
 h1, h2, h3, h4, h5, p {
   padding: 0;
   margin: 0;
-  letter-spacing: 0.02em;
-  /*промежутки между буквами*/
+  letter-spacing: 0.02em; /*промежутки между буквами*/
 }
 
 .text-h2 {
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   font-weight: 500;
   font-size: 36px;
   text-transform: uppercase;
 }
 
 .text-h3 {
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   font-weight: 500;
   font-size: 24px;
 }
 
 .text-h4 {
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   font-weight: 500;
   font-size: 21px;
 }
 
 .text-p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 16px;
 }
 
 .text-p-revievs {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   line-height: 21;
 }
@@ -1064,16 +967,13 @@ h1, h2, h3, h4, h5, p {
   display: none;
 }
 
-.modal #close {
-  /*крестик закрытие*/
+.modal #close { /*крестик закрытие*/
   position: absolute;
-  right: -30px;
-  /*выйдет за пределы мод окошка*/
+  right: -30px; /*выйдет за пределы мод окошка*/
   top: -30px;
   color: var(--sitePortfolio-ModalCloseColor);
   font-size: 40px;
 }
-
 @media screen and (hover: hover) and (prefers-reduced-motion: no-preference) {
   .modal #close:hover {
     cursor: pointer;
@@ -1083,12 +983,10 @@ h1, h2, h3, h4, h5, p {
 .modal #left, #right {
   position: absolute;
   top: 50%;
-  transform: translateY(-50%);
-  /*подровняем расположение стрелок*/
+  transform: translateY(-50%); /*подровняем расположение стрелок*/
   color: var(--sitePortfolio-ModalCloseColor);
   font-size: 45px;
 }
-
 @media screen and (hover: hover) and (prefers-reduced-motion: no-preference) {
   .modal #left:hover, #right:hover {
     cursor: pointer;
@@ -1103,24 +1001,18 @@ h1, h2, h3, h4, h5, p {
   right: -50px;
 }
 
-.active-image {
-  /*внутри мод окошка картинка на всю ширину*/
+.active-image { /*внутри мод окошка картинка на всю ширину*/
   width: 100%;
 }
 
-.overlay {
-  /*по клику на картинку выскочит мод окошко*/
+.overlay { /*по клику на картинку выскочит мод окошко*/
   width: 100%;
   height: 100vh;
   background-color: black;
-  position: fixed;
-  /*выносим мод окошко на слой выше контента*/
-  inset: 0;
-  /*прижимаем с 4 сторон*/
-  display: none;
-  /*всплывать будет по клику*/
+  position: fixed; /*выносим мод окошко на слой выше контента*/
+  inset: 0; /*прижимаем с 4 сторон*/
+  display: none; /*всплывать будет по клику*/
 }
-
 @media screen and (hover: hover) and (prefers-reduced-motion: no-preference) {
   .overlay:hover {
     cursor: pointer;
@@ -1171,10 +1063,8 @@ h1, h2, h3, h4, h5, p {
     height: 500px;
     overflow: hidden;
   }
-  .modal #close {
-    /*крестик закрытие*/
-    right: 8px;
-    /*внутри мод окошка*/
+  .modal #close { /*крестик закрытие*/
+    right: 8px; /*внутри мод окошка*/
     top: 4px;
   }
   .modal #left {
@@ -1184,7 +1074,6 @@ h1, h2, h3, h4, h5, p {
     right: 9px;
   }
 }
-
 @media screen and (max-width: 640px) {
   .images {
     grid-template-columns: 1fr;
@@ -1193,10 +1082,8 @@ h1, h2, h3, h4, h5, p {
     width: 385px;
     height: 400px;
   }
-  .modal #close {
-    /*крестик закрытие*/
-    right: 8px;
-    /*внутри мод окошка*/
+  .modal #close { /*крестик закрытие*/
+    right: 8px; /*внутри мод окошка*/
     top: 4px;
   }
   .modal #left {
@@ -1206,11 +1093,9 @@ h1, h2, h3, h4, h5, p {
     right: 9px;
   }
 }
-
 .image {
   width: 100%;
 }
-
 @media screen and (hover: hover) and (prefers-reduced-motion: no-preference) {
   .image:hover {
     cursor: pointer;
@@ -1236,7 +1121,6 @@ h1, h2, h3, h4, h5, p {
   border-bottom: 4px solid #df482e;
   overflow: hidden;
 }
-
 @media screen and (prefers-reduced-motion: no-preference) {
   .logotip::before {
     animation: GStroy 8s infinite linear;
@@ -1249,5 +1133,4 @@ h1, h2, h3, h4, h5, p {
       width: 100%;
     }
   }
-}
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
